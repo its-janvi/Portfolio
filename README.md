@@ -1,2 +1,2 @@
 # Portfolio
-https://itsjanvi.github.io/Portfolio/
+https://its-janvi.github.io/Portfolio/
